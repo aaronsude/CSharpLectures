@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="CSharpLectures/CSharpLectures.csproj" />
+  <Project Path="CSharpLectures/1IDE.csproj" />
+  <Project Path="DataTypes/2DataTypes.csproj" />
 </Solution>
