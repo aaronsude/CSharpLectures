@@ -23,8 +23,8 @@ namespace DataTypes
             int summe = zahl1 + zahl2;
             int differenz = zahl1 - zahl2;
             int produkt = zahl1 * zahl2;
-            double quotient = (double)zahl1 / (double)zahl2;      
-            int rest = zahl1 % zahl2;           
+            double quotient = (double)zahl1 / (double)zahl2;
+            int rest = zahl1 % zahl2;   
 
             // Ausgabe mit Formatierung
             Console.WriteLine("ERGEBNISSE:");
