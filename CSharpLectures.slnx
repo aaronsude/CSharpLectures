@@ -3,4 +3,5 @@
   <Project Path="ControlStructures2/ControlStructures2.csproj" Id="1fb84114-724a-4c42-b74c-c993ac2a0edb" />
   <Project Path="CSharpLectures/1IDE.csproj" />
   <Project Path="DataTypes/2DataTypes.csproj" />
+  <Project Path="Functions/Functions.csproj" Id="96a7d655-79f5-4222-8274-41df4c9d633a" />
 </Solution>
