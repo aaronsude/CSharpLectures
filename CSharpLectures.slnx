@@ -4,5 +4,6 @@
   <Project Path="CSharpLectures/1IDE.csproj" />
   <Project Path="DataTypes/2DataTypes.csproj" />
   <Project Path="Functions/Functions.csproj" Id="96a7d655-79f5-4222-8274-41df4c9d633a" />
+  <Project Path="Inheritance/Inheritance.csproj" Id="39a2660b-e1b2-4af8-b0f3-6787a66f21ed" />
   <Project Path="OOP/OOP.csproj" Id="1b44c1f0-6600-4472-8324-165c88cd24dc" />
 </Solution>
