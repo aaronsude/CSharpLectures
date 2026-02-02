@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Collections/Collections.csproj" Id="043b58ce-aa5f-40e2-aa52-094e18f9148f" />
   <Project Path="ControlStructures/ControlStructures.csproj" Id="ce4d700d-bb99-4cdf-93fa-4003c9a652f3" />
   <Project Path="ControlStructures2/ControlStructures2.csproj" Id="1fb84114-724a-4c42-b74c-c993ac2a0edb" />
   <Project Path="CSharpLectures/1IDE.csproj" />
