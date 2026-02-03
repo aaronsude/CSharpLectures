@@ -1,17 +1,39 @@
 ﻿
-int maxInt = MyCompare.Maximum(0, 1);
+using Collections;
+using Collections.StudentManagement;
+
+//StudentManagement studentManagement = new StudentManagement();
+//studentManagement.Start();
 
 
-string maxStr = MyCompare.Maximum("Anna", "Zoe");
 
-var s1 = new Student();
-s1.Id = 1;
+Console.WriteLine("--- Integer Stack ---");
+Stapel<int> intStapel = new Stapel<int>();
+intStapel.Push(1);
+intStapel.Push(2);
+intStapel.Push(3);
 
-var s2 = new Student();
-s2.Id = 2;
+Console.WriteLine($"Stack count: {intStapel.Count}");
+intStapel.Display();
 
-Student highestStudent = MyCompare.Maximum(s1, s2);
-Console.WriteLine(highestStudent.Id);
+int val = intStapel.Pop();
+Console.WriteLine($"Popped value: {val}");
+Console.WriteLine($"Peek at top: {intStapel.Peek()}");
+Console.WriteLine($"Stack count after pop: {intStapel.Count}\n");
+
+//int maxInt = MyCompare.Maximum(0, 1);
+
+
+//string maxStr = MyCompare.Maximum("Anna", "Zoe");
+
+//var s1 = new Student();
+//s1.Id = 1;
+
+//var s2 = new Student();
+//s2.Id = 2;
+
+//Student highestStudent = MyCompare.Maximum(s1, s2);
+//Console.WriteLine(highestStudent.Id);
 class MyStack<T>
 {
     private T[] _items = new T[10];
