@@ -4,6 +4,7 @@
   <Project Path="ControlStructures2/ControlStructures2.csproj" Id="1fb84114-724a-4c42-b74c-c993ac2a0edb" />
   <Project Path="CSharpLectures/1IDE.csproj" />
   <Project Path="DataTypes/2DataTypes.csproj" />
+  <Project Path="ErrorHandling/ErrorHandling.csproj" Id="8f0c3430-b06b-4c0f-8699-abe12b2519e7" />
   <Project Path="Functions/Functions.csproj" Id="96a7d655-79f5-4222-8274-41df4c9d633a" />
   <Project Path="Inheritance/Inheritance.csproj" Id="39a2660b-e1b2-4af8-b0f3-6787a66f21ed" />
   <Project Path="Interfaces/Interfaces.csproj" Id="990fa0d1-a2c9-42e0-a732-7fee9824365b" />
